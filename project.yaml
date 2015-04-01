@@ -1,0 +1,7 @@
+---
+
+textfiles:
+    magnific-popup.min.js: "https://raw.githubusercontent.com/dimsemenov/Magnific-Popup/master/dist/jquery.magnific-popup.min.js"
+    magnific-popup.css: "https://raw.githubusercontent.com/dimsemenov/Magnific-Popup/master/dist/magnific-popup.css"
+
+---
